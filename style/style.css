@@ -1,0 +1,14 @@
+*{
+    padding: 0 ;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.box{
+    width: 910px;
+    height: 485px;
+    overflow: auto;
+    border: red solid 7px;
+}
+@import url(assets/head.css);
+@import url(/style/assets/principal.css);
